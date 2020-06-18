@@ -1,6 +1,6 @@
-# covid19
+# Tracking_Covid-19_Cambodia
 
-A new Flutter project.
+This app is built using a flutter framework  Features  Monitoring and deployment of Covid-19 in Cambodia and whole of World
 
 ## Getting Started
 
